@@ -9,10 +9,10 @@
 This project demonstrates essential SQL skills for exploring, cleaning, and analyzing sales data, performing EDA, and answering real-world business questions. Perfect for beginners building a strong foundation in SQL and data analytics.
 
 ## Objectives
-1. Database Setup:** Create and populate a retail sales database using the provided dataset.
-2. Data Cleaning:** Identify and handle missing, null, or inconsistent records.
-3. Exploratory Data Analysis (EDA):** Explore the dataset to uncover patterns and trends.
-4. Business Analysis:** Use SQL queries to answer business questions and generate actionable insights.
+1. Database Setup: Create and populate a retail sales database using the provided dataset.
+2. Data Cleaning: Identify and handle missing, null, or inconsistent records.
+3. Exploratory Data Analysis (EDA): Explore the dataset to uncover patterns and trends.
+4. Business Analysis: Use SQL queries to answer business questions and generate actionable insights.
 
 ## Business Questions
 1. Write a SQL query to retrieve all columns for sales made on '2022-11-04:
