@@ -22,9 +22,8 @@ This project demonstrates essential SQL skills for exploring, cleaning, and anal
 5. Write a SQL query to calculate the total sales (total_sale) for each category.
 6. Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.
 7. Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
-8. Write a SQL query to calculate the average sale for each month. Find out best selling month in each year
-9. Write a SQL query to find the number of unique customers who purchased items from each category.:
-10. Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)
+8. Write a SQL query to find the number of unique customers who purchased items from each category.:
+9. Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)
 
 ## How to Participate
 1. Download the dataset
