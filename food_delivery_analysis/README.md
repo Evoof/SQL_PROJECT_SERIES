@@ -2,7 +2,6 @@
 
 **Level:** Beginner
 **Database:** `p2_food_delivery_db`
-**Solution release date:** [add date]
 
 ## Overview
 You have just joined a food delivery startup as a junior data analyst. The team wants to understand which cuisines earn the most, which cities deliver fastest, how customers pay, and when orders come in. In this project you will set up a PostgreSQL database, clean the data, explore it, and answer 10 business questions using SQL. It is ideal for anyone starting their SQL journey.
@@ -11,7 +10,6 @@ You have just joined a food delivery startup as a junior data analyst. The team 
 `WHERE` · `IN` · `BETWEEN` · `MIN` / `MAX` · `SUM` · `AVG` · `GROUP BY` · `HAVING` · `ORDER BY` · `CASE WHEN` · `TO_CHAR` · `DELETE`
 
 ## Dataset
-File: [`food_delivery_orders.csv`](./food_delivery_orders.csv)
 600 orders placed between January and June 2024. All amounts are in Naira (₦).
 
 | Column | Description |
