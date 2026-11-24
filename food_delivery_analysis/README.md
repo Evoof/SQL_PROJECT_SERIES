@@ -186,4 +186,23 @@ FROM food_delivery
 WHERE rating IN (1,2)
 GROUP BY cuisine
 ORDER BY low_rated_orders DESC;
+
+## Findings
+
+- *Delivery Performance*: Only 3 orders took more than 60 minutes (two in Lagos, one in Kano). Delivery times ranged from 15 to 68 minutes.
+- *Order Values*: Orders ranged from ₦1,300 to ₦28,900. The more items in a basket, the higher the order value, from about ₦3,200 for 1 item to about ₦19,500 for 6 items.
+- *Payment Behaviour*: Card payments had the highest average order value (₦9,372), while Wallet had the lowest (₦8,211).
+- *Busiest Days*: Monday was the busiest day with 99 orders, and Wednesday was the slowest with 68.
+- *Customer Insights*: 9 customers placed more than 8 orders, with customer 1047 leading at 12 orders.
+- *Customer Satisfaction*: Lagos had the highest satisfaction rate (73.81%) and Kano the lowest (64.71%). Fast Food and Nigerian cuisines received the most low ratings (24 and 21).
+
+## Reports
+
+- *Revenue Summary*: Lagos earned the most (₦2.04M including delivery fees), followed by Abuja (₦1.35M). Kano earned the least (₦0.57M).
+- *Trend Analysis*: Order volume by day of the week and by basket size.
+- *Customer Insights*: Repeat customers, satisfaction rate per city, and low-rated orders per cuisine.
+
+## Conclusion
+
+This project covered database setup, data cleaning, exploration and business analysis on food delivery orders. The findings show that Lagos drives the most revenue, larger baskets raise order value, and Fast Food and Nigerian cuisines need attention on quality. Improving delivery in Kano and Lagos's slow orders could lift customer satisfaction.
 ```
