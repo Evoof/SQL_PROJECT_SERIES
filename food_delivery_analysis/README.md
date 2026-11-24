@@ -43,7 +43,6 @@ You have just joined a food delivery startup as a junior data analyst. The team 
 7. Write a query to find the average order value for each payment method, highest first.
 8. Write a query to find the number of orders and the average order value for each basket size (`items_count`).
 9. Write a query to find how many low-rated orders (rating 1 or 2) each cuisine received, most complaints first.
-10. Write a query to find the customer satisfaction rate for each city: the percentage of orders rated 4 or 5, highest first.
 
 ## How to Participate
 1. Download the dataset
