@@ -186,6 +186,7 @@ FROM food_delivery
 WHERE rating IN (1,2)
 GROUP BY cuisine
 ORDER BY low_rated_orders DESC;
+```
 
 ## Findings
 
@@ -205,4 +206,3 @@ ORDER BY low_rated_orders DESC;
 ## Conclusion
 
 This project covered database setup, data cleaning, exploration and business analysis on food delivery orders. The findings show that Lagos drives the most revenue, larger baskets raise order value, and Fast Food and Nigerian cuisines need attention on quality. Improving delivery in Kano and Lagos's slow orders could lift customer satisfaction.
-```
