@@ -1,8 +1,6 @@
 # Project 03: Student Performance Analysis
 
 **Level:** Beginner
-**Database:** `p3_student_db`
-**Solution release date:** [add date]
 
 ## Overview
 You have just joined a secondary school as a junior data analyst. The principal wants to understand how students are performing, which factors affect their scores, and which students need extra support. In this project you will set up a PostgreSQL database, clean the data, explore it, and answer 10 business questions using SQL. It is ideal for anyone starting their SQL journey.
@@ -11,7 +9,6 @@ You have just joined a secondary school as a junior data analyst. The principal 
 `WHERE` · `LIKE` · `BETWEEN` · `AVG` · `MIN` / `MAX` · `ROUND` · `GROUP BY` · `ORDER BY` · `LIMIT` · `CASE WHEN` · calculated columns · `DELETE`
 
 ## Dataset
-File: [`student_performance.csv`](./student_performance.csv)
 500 students across Grades 7 to 12. Scores are out of 100.
 
 | Column | Description |
