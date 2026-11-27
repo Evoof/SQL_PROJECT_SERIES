@@ -227,12 +227,14 @@ ORDER BY no_of_at_risk_std DESC;
 
 ## Findings
 
-- *Subject Performance*: English had the highest average score (61.02), followed by Science (58.96) and Maths (56.09). Maths scores ranged from 21 to 96, and only 8 Grade 12 students scored above 70 in Maths.
-- *Performance Bands*: Credit (175) and Pass (172) were the most common bands. 57 students earned a Distinction and 86 failed.
-- *Study Habits*: Students who study more than 10 hours a week averaged 65.49, compared to 47.28 for those who study under 5 hours.
-- *Internet Access*: Students with internet access averaged 60.72, while those without averaged 54.34.
-- *Gender*: Scores were close between genders. Male students were slightly ahead in Maths and Science, and English was almost equal.
-- *At-Risk Students*: 16 students had attendance below 75% and an average score below 50, with Grade 12 having the most (6).
+## Findings
+
+- **Subject Performance**: English had the highest average score (61.02), followed by Science (58.96) and Maths (56.09). Maths scores ranged from 21 to 96, and only 8 Grade 12 students scored above 70 in Maths.
+- **Performance Bands**: Credit (175) and Pass (172) were the most common bands. 57 students earned a Distinction and 86 failed.
+- **Study Habits**: Students who study more than 10 hours a week averaged 65.49, compared to 47.28 for those who study under 5 hours.
+- **Internet Access**: Students with internet access averaged 60.72, while those without averaged 54.34.
+- **Gender**: Scores were close between genders. Male students were slightly ahead in Maths and Science, and English was almost equal.
+- **At-Risk Students**: 16 students had attendance below 75% and an average score below 50, with Grade 12 having the most (6).
 
 ## Reports
 
