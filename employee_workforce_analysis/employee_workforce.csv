@@ -1,0 +1,401 @@
+employee_id,employee_name,gender,age,department,job_level,hire_date,monthly_salary,performance_rating,employment_type,city,leave_days_taken
+3001,Abigail Olawale,Female,36,Marketing,Senior,2019-04-30,615000,5,Full-time,Port Harcourt,16
+3002,Peace Salami,Female,31,Finance,Mid-level,2016-08-14,525000,3,Full-time,Lagos,17
+3003,Obi Ogunleye,Male,29,Sales,Mid-level,2019-07-22,400000,2,Full-time,Lagos,10
+3004,Uche Eze,Male,27,Customer Support,Junior,2020-12-31,195000,1,Full-time,Abuja,18
+3005,Musa Musa,Male,21,Human Resources,Junior,2019-07-01,325000,3,Full-time,Abuja,10
+3006,Ade Ogunleye,Male,41,Operations,Manager,2024-09-06,945000,3,Full-time,Abuja,11
+3007,Samuel Okonkwo,Male,34,Operations,Mid-level,2018-09-21,480000,3,Full-time,Port Harcourt,16
+3008,Aisha Salami,Female,27,Sales,Junior,2023-11-02,300000,1,Full-time,Kano,6
+3009,Kelechi Chukwu,Male,34,Sales,Senior,2023-07-25,485000,4,Part-time,Lagos,13
+3010,Kelechi Okafor,Male,31,Engineering,Mid-level,2021-04-24,565000,3,Full-time,Port Harcourt,11
+3011,Joshua Adeyemi,Male,29,Customer Support,Mid-level,2024-04-16,290000,2,Full-time,Abuja,12
+3012,Yetunde Adeyemi,Female,36,Customer Support,Senior,2020-10-26,345000,4,Contract,Port Harcourt,7
+3013,Maryam Okoro,Female,23,Engineering,Junior,2019-12-16,460000,3,Full-time,Abuja,21
+3014,Dayo Salami,Male,24,Engineering,Junior,2022-08-12,445000,4,Full-time,Lagos,13
+3015,Rita Musa,Female,34,Sales,Mid-level,2017-01-08,475000,2,Full-time,Abuja,8
+3016,Femi Bello,,22,Customer Support,Junior,2020-09-29,205000,5,Full-time,Kano,15
+3017,Hauwa Bello,Female,22,Operations,Junior,2022-12-20,300000,3,Full-time,Ibadan,6
+3018,Aisha Nwosu,Female,40,Operations,Manager,2018-03-05,580000,3,Part-time,Port Harcourt,12
+3019,Abigail Adeyemi,Female,27,Engineering,Junior,2020-02-03,330000,2,Contract,Kano,6
+3020,Ife Olawale,Female,27,Marketing,Mid-level,2018-12-16,430000,4,Full-time,Port Harcourt,13
+3021,Uche Musa,Male,34,Operations,Manager,2023-05-03,1005000,1,Full-time,Ibadan,13
+3022,Kola Adeyemi,Male,25,Engineering,Junior,2017-04-14,300000,2,Contract,Lagos,0
+3023,Yetunde Nnamdi,Female,32,Finance,Mid-level,2023-09-21,370000,5,Part-time,Abuja,2
+3024,Sade Abdullahi,Female,26,Marketing,Mid-level,2022-03-31,510000,4,Full-time,Abuja,9
+3025,Bisi Musa,Female,21,Marketing,Junior,2022-01-12,280000,1,Full-time,Lagos,3
+3026,Ade Adebayo,Male,27,Sales,Junior,2021-08-14,300000,3,Full-time,Abuja,17
+3027,Daniel Eze,Male,35,Operations,Mid-level,2019-01-27,450000,3,Full-time,Abuja,19
+3028,Uche Eze,Male,27,Operations,Junior,2021-06-10,315000,3,Full-time,Port Harcourt,6
+3029,Emeka Eze,Male,27,Finance,Junior,2022-12-30,385000,4,Full-time,Abuja,3
+3030,Ife Eze,Female,21,Engineering,Junior,2024-08-17,405000,4,Full-time,Abuja,13
+3031,Amara Adeyemi,Female,27,Operations,Junior,2021-07-06,170000,4,Contract,Port Harcourt,16
+3032,Grace Salami,Female,29,Engineering,Mid-level,2021-11-14,740000,3,Full-time,Abuja,8
+3033,Nneka Balogun,Female,33,Sales,Senior,2017-12-22,705000,5,Full-time,Port Harcourt,17
+3034,Sade Chukwu,Female,31,Finance,Mid-level,2019-05-31,490000,4,Full-time,Lagos,0
+3035,Tolu Adeyemi,Female,29,Operations,Mid-level,2017-03-02,305000,2,Part-time,Abuja,10
+3036,Daniel Salami,Male,41,Human Resources,Manager,2021-04-22,985000,4,Full-time,Lagos,6
+3037,Esther Adebayo,Female,24,Sales,Junior,2023-02-15,280000,3,Full-time,Port Harcourt,12
+3038,Zainab Okonkwo,Female,30,Operations,Junior,2018-04-12,205000,4,Contract,Abuja,10
+3039,Samuel Ibrahim,Male,30,Engineering,Mid-level,2019-06-26,625000,4,Full-time,Port Harcourt,13
+3040,Yetunde Akinola,Female,25,Operations,Junior,2020-01-13,320000,4,Full-time,Port Harcourt,17
+3041,David Ogunleye,Male,25,Operations,Junior,2021-05-29,290000,2,Full-time,Port Harcourt,9
+3042,David Lawal,Male,26,Marketing,Junior,2023-02-11,250000,4,Part-time,Abuja,6
+3043,Maryam Nwosu,Female,30,Sales,Mid-level,2022-03-11,395000,4,Full-time,Port Harcourt,10
+3044,Amara Bello,Female,31,Sales,Senior,2021-08-23,610000,3,Full-time,Kano,20
+3045,Chiamaka Olawale,Female,28,Finance,Senior,2022-02-21,970000,3,Full-time,Lagos,18
+3046,Mercy Chukwu,Female,31,Finance,Senior,2022-11-26,735000,5,Full-time,Ibadan,9
+3047,Wale Adeyemi,Male,35,Finance,Mid-level,2019-06-12,515000,4,Full-time,Lagos,15
+3048,Segun Akinola,Male,24,Sales,Mid-level,2021-07-04,395000,2,Full-time,Port Harcourt,12
+3049,Amara Chukwu,Female,33,Operations,Senior,2021-09-29,605000,3,Full-time,Abuja,0
+3050,Bisi Adeyemi,Female,34,Marketing,Senior,2020-02-14,665000,4,Full-time,Abuja,14
+3051,Obi Balogun,Male,23,Operations,Mid-level,2022-11-12,430000,5,Full-time,Port Harcourt,8
+3052,Segun Musa,Male,35,Sales,Junior,2016-11-06,245000,5,Contract,Abuja,15
+3053,Femi Abdullahi,Male,22,Finance,Junior,2020-10-09,455000,4,Full-time,Lagos,10
+3054,Ade Eze,Male,25,Operations,Senior,2023-03-31,455000,3,Part-time,Ibadan,13
+3055,Sade Bello,Female,35,Operations,Mid-level,2017-02-20,415000,5,Full-time,Port Harcourt,10
+3056,Ibrahim Bello,Male,26,Human Resources,Junior,2021-05-30,295000,5,Full-time,Ibadan,17
+3057,Samuel Nwosu,Male,24,Sales,Junior,2022-05-11,275000,3,Full-time,Kano,8
+3058,Yetunde Okonkwo,Female,30,Marketing,Mid-level,2021-08-09,400000,4,Full-time,Lagos,14
+3059,Tobi Ibrahim,Male,32,Marketing,Senior,2022-06-23,800000,4,Full-time,Abuja,6
+3060,Aisha Salami,Female,28,Marketing,Junior,2019-07-29,295000,4,Full-time,Lagos,15
+3061,Abigail Musa,Female,34,,Mid-level,2017-04-14,480000,2,Full-time,Lagos,22
+3062,Chiamaka Okonkwo,Female,42,Sales,Manager,2023-04-14,1000000,4,Full-time,Lagos,19
+3063,Esther Nwosu,Female,34,Engineering,Senior,2021-11-27,965000,1,Full-time,Lagos,8
+3064,Dayo Chukwu,Male,28,Finance,Mid-level,2020-05-31,510000,5,Full-time,Lagos,14
+3065,Kelechi Nwosu,Male,30,Sales,Mid-level,2015-11-17,300000,3,Contract,Kano,9
+3066,Nneka Ibrahim,Female,33,Finance,Senior,2021-09-04,650000,4,Contract,Abuja,13
+3067,Grace Bello,Female,28,Sales,Senior,2023-01-11,545000,5,Contract,Port Harcourt,9
+3068,Abigail Abdullahi,Female,28,Finance,Junior,2021-09-17,385000,4,Full-time,Lagos,7
+3069,Tunde Olawale,Male,41,Operations,Senior,2019-11-25,590000,5,Full-time,Kano,13
+3070,Sade Eze,Female,42,Sales,Manager,2017-07-03,615000,2,Contract,Lagos,18
+3071,Bisi Abdullahi,Female,25,Human Resources,Junior,2022-05-28,320000,3,Full-time,Lagos,15
+3072,Bisi Lawal,Female,33,Operations,Mid-level,2021-02-21,425000,5,Full-time,Lagos,16
+3073,Ade Salami,Male,29,Finance,Mid-level,2023-02-18,630000,4,Full-time,Lagos,14
+3074,Samuel Olawale,Male,32,Customer Support,Mid-level,2015-03-30,260000,4,Full-time,Port Harcourt,16
+3075,Samuel Balogun,Male,28,Engineering,Mid-level,2023-04-27,460000,4,Part-time,Lagos,7
+3076,Samuel Adeyemi,Male,29,Finance,Senior,2024-04-12,555000,2,Part-time,Kano,13
+3077,Samuel Nwosu,Male,31,Engineering,Mid-level,2020-04-16,680000,3,Full-time,Lagos,5
+3078,Chiamaka Salami,Female,28,Operations,Junior,2022-09-05,220000,3,Contract,Abuja,13
+3079,Ade Musa,Male,36,Sales,Mid-level,2018-04-13,345000,4,Contract,Lagos,10
+3080,Daniel Musa,Male,21,Sales,Junior,2021-09-26,330000,5,Full-time,Ibadan,3
+3081,Obi Chukwu,Male,27,Customer Support,Junior,2021-01-10,205000,4,Full-time,Port Harcourt,2
+3082,Peace Danjuma,Female,31,Customer Support,Mid-level,2018-12-23,275000,3,Full-time,Kano,12
+3083,Ayo Ibrahim,Male,30,Sales,Junior,2023-05-08,290000,4,Full-time,Lagos,16
+3084,Esther Musa,Female,21,Marketing,Junior,2023-02-07,320000,3,Full-time,Abuja,12
+3085,Ife Eze,Female,32,Operations,Mid-level,2020-09-12,445000,5,Full-time,Port Harcourt,14
+3086,Grace Okafor,Female,46,Operations,Manager,2018-07-07,835000,2,Full-time,Abuja,8
+3087,Rita Adeyemi,Female,40,Marketing,Manager,2022-01-20,965000,4,Full-time,Port Harcourt,19
+3088,Ife Danjuma,Female,27,Finance,Mid-level,2024-08-15,565000,4,Full-time,Abuja,12
+3089,Yetunde Okonkwo,Female,30,Operations,Junior,2017-10-07,300000,3,Full-time,Ibadan,1
+3090,Joshua Eze,Male,32,Operations,Mid-level,2022-03-24,290000,1,Contract,Lagos,2
+3091,Funmi Danjuma,Female,39,Sales,Manager,2021-01-01,1000000,3,Full-time,Abuja,11
+3092,Samuel Nnamdi,Male,27,Operations,Mid-level,2022-10-24,475000,3,Full-time,Lagos,18
+3093,Aisha Musa,Female,28,Sales,Mid-level,2020-12-17,465000,2,Full-time,Port Harcourt,20
+3094,Rita Adeyemi,Female,25,Sales,Mid-level,2023-07-29,285000,3,Part-time,Abuja,17
+3095,Joshua Abdullahi,Male,22,Finance,Junior,2024-01-03,285000,3,Contract,Port Harcourt,8
+3096,Ayo Ogunleye,Male,27,Sales,Mid-level,2024-03-26,400000,1,Full-time,Abuja,0
+3097,Kemi Lawal,Female,27,Engineering,Mid-level,2024-02-19,665000,3,Full-time,Lagos,13
+3098,Obi Balogun,Male,30,Operations,Mid-level,2023-07-29,440000,3,Full-time,Lagos,8
+3099,Segun Eze,Male,29,Sales,Junior,2018-01-05,305000,4,Full-time,Abuja,21
+3100,Uche Nnamdi,Male,35,Finance,Senior,2021-04-05,985000,5,Full-time,Kano,5
+3101,Victor Bello,Male,28,Sales,Junior,2021-08-06,335000,3,Full-time,Kano,13
+3102,Maryam Adebayo,Female,28,Operations,Senior,2024-05-06,405000,1,Contract,Abuja,16
+3103,Gbenga Chukwu,Male,31,Human Resources,Mid-level,2018-11-11,470000,3,Full-time,Lagos,13
+3104,Uche Adeyemi,Male,26,Operations,Mid-level,2024-03-01,360000,3,Full-time,Lagos,15
+3105,Ade Balogun,Male,36,Sales,Senior,2018-10-20,725000,3,Full-time,Port Harcourt,16
+3106,Kemi Lawal,Female,21,Marketing,Junior,2021-07-07,215000,5,Contract,Lagos,14
+3107,Nneka Olawale,Female,35,Sales,Mid-level,2018-12-11,455000,4,Full-time,Kano,12
+3108,Daniel Olawale,Male,33,Sales,Junior,2021-11-26,235000,2,Contract,Lagos,15
+3109,Emeka Ibrahim,Male,43,Marketing,Manager,2016-07-30,720000,3,Contract,Lagos,6
+3110,Tunde Ibrahim,Male,36,Finance,Senior,2018-07-11,680000,3,Part-time,Lagos,5
+3111,Gbenga Adeyemi,Male,44,Customer Support,Manager,2020-01-08,,2,Full-time,Port Harcourt,12
+3112,Yetunde Eze,Female,44,Finance,Manager,2018-11-17,1120000,4,Full-time,Lagos,9
+3113,Zainab Nwosu,Female,23,Sales,Junior,2023-10-24,335000,2,Full-time,Lagos,1
+3114,Esther Abdullahi,Female,26,Sales,Junior,2018-05-30,190000,5,Contract,Lagos,11
+3115,Aisha Danjuma,Female,31,Sales,Senior,2024-04-23,780000,4,Full-time,Port Harcourt,16
+3116,Ade Abdullahi,Male,27,Sales,Mid-level,2023-03-12,505000,1,Full-time,Abuja,12
+3117,Amara Nwosu,Female,35,Marketing,Junior,2019-08-05,370000,4,Full-time,Port Harcourt,8
+3118,Chidi Bello,Male,23,Customer Support,Mid-level,2022-07-03,310000,4,Full-time,Lagos,11
+3119,Mercy Danjuma,Female,28,Operations,Junior,2017-09-28,270000,4,Full-time,Lagos,10
+3120,Dayo Akinola,Male,25,Finance,Junior,2019-06-18,400000,5,Full-time,Abuja,14
+3121,Daniel Ibrahim,Male,31,Marketing,Senior,2021-04-25,505000,5,Contract,Abuja,10
+3122,Yusuf Nwosu,Male,22,Operations,Junior,2023-05-16,325000,4,Full-time,Ibadan,14
+3123,Nneka Adebayo,Female,23,Engineering,Junior,2019-08-18,495000,4,Full-time,Kano,2
+3124,Blessing Adebayo,Female,33,Sales,Mid-level,2018-04-28,465000,3,Full-time,Lagos,14
+3125,Victor Ibrahim,Male,26,Human Resources,Junior,2020-03-05,305000,4,Full-time,Lagos,6
+3126,Ibrahim Salami,Male,36,Human Resources,Senior,2023-08-03,435000,3,Part-time,Abuja,17
+3127,Blessing Lawal,Female,27,Sales,Junior,2022-12-23,320000,4,Full-time,Lagos,3
+3128,Daniel Nwosu,Male,38,Customer Support,Mid-level,2015-10-23,300000,5,Full-time,Kano,11
+3129,Tobi Bello,Male,32,Marketing,Senior,2020-11-21,595000,5,Full-time,Port Harcourt,18
+3130,Femi Ibrahim,Male,30,Sales,Mid-level,2022-11-22,425000,5,Full-time,Kano,10
+3131,Victor Danjuma,Male,30,Marketing,Mid-level,2023-07-18,430000,3,Full-time,Lagos,17
+3132,Peace Okoro,Female,26,Finance,Mid-level,2024-04-17,565000,5,Full-time,Ibadan,8
+3133,Maryam Musa,Female,30,Human Resources,Mid-level,2021-12-17,385000,5,Full-time,Lagos,19
+3134,Grace Balogun,Female,33,Finance,Junior,2017-01-12,350000,4,Full-time,Abuja,16
+3135,Tobi Eze,Male,38,Finance,Senior,2018-08-23,790000,1,Full-time,Abuja,5
+3136,Mercy Adebayo,Female,30,Sales,Mid-level,2024-03-16,310000,4,Part-time,Lagos,10
+3137,Daniel Balogun,Male,30,Marketing,Mid-level,2020-01-16,480000,3,Full-time,Lagos,0
+3138,Joshua Bello,Male,23,Sales,Junior,2024-06-15,355000,3,Full-time,Abuja,13
+3139,Victor Akinola,Male,36,Finance,Mid-level,2020-08-03,505000,3,Full-time,Port Harcourt,6
+3140,Daniel Nnamdi,Male,28,Engineering,Senior,2021-06-10,835000,4,Full-time,Abuja,8
+3141,Kemi Bello,Female,21,Operations,Junior,2022-10-19,315000,2,Full-time,Lagos,5
+3142,Jide Musa,Male,23,Sales,Junior,2021-12-22,305000,5,Full-time,Lagos,17
+3143,Uche Ogunleye,Male,25,Marketing,Junior,2021-05-09,295000,4,Full-time,Port Harcourt,11
+3144,Victor Adeyemi,Male,23,Operations,Mid-level,2019-11-15,410000,5,Full-time,Kano,19
+3145,Ife Abdullahi,Female,30,Operations,Senior,2021-02-02,440000,1,Part-time,Abuja,6
+3146,Fatima Abdullahi,Female,29,Customer Support,Junior,2020-06-28,235000,2,Full-time,Port Harcourt,17
+3147,Lola Lawal,Female,39,Human Resources,Manager,2017-07-29,880000,4,Full-time,Abuja,17
+3148,Fatima Bello,Female,23,Finance,Junior,2024-06-06,270000,4,Contract,Lagos,9
+3149,Peace Adeyemi,Female,39,Engineering,Manager,2024-08-01,1240000,3,Full-time,Ibadan,18
+3150,Esther Bello,Female,24,Marketing,Junior,2021-04-06,315000,3,Full-time,Lagos,8
+3151,Nneka Nnamdi,Female,30,Finance,Junior,2022-03-06,445000,4,Full-time,Abuja,7
+3152,Funmi Ibrahim,Female,24,Finance,Junior,2019-01-05,410000,4,Full-time,Ibadan,5
+3153,Zainab Bello,Female,31,Sales,Mid-level,2023-05-05,390000,3,Full-time,Lagos,12
+3154,David Akinola,Male,24,Engineering,Junior,2020-01-15,425000,4,Full-time,Lagos,5
+3155,Kelechi Ogunleye,Male,35,Operations,Senior,2020-07-24,635000,4,Full-time,Abuja,10
+3156,Blessing Bello,Female,22,Customer Support,Junior,2020-07-07,190000,4,Full-time,Port Harcourt,5
+3157,Kola Abdullahi,Male,33,Operations,Senior,2023-05-16,690000,4,Full-time,Lagos,18
+3158,Chiamaka Balogun,Female,22,Engineering,Junior,2024-05-09,425000,2,Full-time,Lagos,9
+3159,Fatima Adeyemi,Female,35,Engineering,Mid-level,2017-04-08,630000,3,Full-time,Kano,9
+3160,Tolu Nnamdi,Female,31,Sales,Mid-level,2020-01-05,340000,5,Contract,Lagos,5
+3161,Amara Akinola,Female,30,Engineering,Junior,2017-01-29,475000,2,Full-time,Lagos,9
+3162,Segun Eze,Male,31,Customer Support,Senior,2020-03-21,490000,4,Full-time,Port Harcourt,14
+3163,Zainab Bello,Female,33,Human Resources,Junior,2018-03-02,335000,4,Full-time,Lagos,19
+3164,Gbenga Adebayo,Male,35,Engineering,Senior,2020-06-13,815000,3,Full-time,Port Harcourt,12
+3165,Obi Abdullahi,Male,25,Sales,Mid-level,2018-05-27,455000,5,Full-time,Kano,13
+3166,Mercy Bello,Female,22,Operations,Junior,2021-03-08,260000,4,Full-time,Kano,14
+3167,Grace Chukwu,Female,22,Engineering,Mid-level,2021-10-06,405000,2,Contract,Abuja,20
+3168,David Chukwu,Male,38,Engineering,Manager,2022-12-01,1335000,1,Full-time,Port Harcourt,19
+3169,Yetunde Akinola,Female,21,Customer Support,Junior,2021-06-16,215000,4,Full-time,Abuja,3
+3170,Emeka Salami,Male,27,Engineering,Mid-level,2024-08-17,535000,3,Full-time,Lagos,12
+3171,Jide Ogunleye,Male,30,Engineering,Mid-level,2021-11-06,720000,3,Full-time,Lagos,4
+3172,David Okafor,Male,25,Human Resources,Junior,2024-07-06,320000,3,Full-time,Ibadan,8
+3173,Segun Okonkwo,Male,29,Engineering,Senior,2022-07-23,890000,5,Full-time,Ibadan,9
+3174,Kemi Balogun,Female,36,Customer Support,Mid-level,2017-07-26,280000,3,Full-time,Port Harcourt,4
+3175,Femi Bello,Male,29,Operations,Mid-level,2018-01-22,475000,5,Full-time,Abuja,10
+3176,Zainab Nwosu,Female,25,Human Resources,Junior,2020-06-19,275000,,Full-time,Lagos,14
+3177,Ayo Balogun,Male,33,Engineering,Senior,2022-03-24,1000000,4,Full-time,Abuja,4
+3178,Lola Akinola,Female,31,Sales,Mid-level,2018-12-02,445000,1,Full-time,Abuja,15
+3179,Ibrahim Nnamdi,Male,36,Human Resources,Mid-level,2022-11-22,355000,2,Part-time,Lagos,0
+3180,Abigail Abdullahi,Female,21,Marketing,Junior,2017-10-30,310000,4,Full-time,Abuja,6
+3181,Tunde Olawale,Male,33,Operations,Junior,2019-12-07,300000,4,Full-time,Kano,10
+3182,Yusuf Adebayo,Male,41,Sales,Manager,2020-05-18,1070000,1,Full-time,Ibadan,4
+3183,Uche Okafor,Male,35,Operations,Senior,2019-04-14,550000,4,Full-time,Ibadan,7
+3184,Maryam Ogunleye,Female,28,Sales,Mid-level,2024-05-07,395000,4,Full-time,Abuja,14
+3185,David Chukwu,Male,29,Customer Support,Junior,2015-10-05,195000,4,Full-time,Abuja,13
+3186,Uche Akinola,Male,33,Engineering,Mid-level,2022-02-19,745000,3,Full-time,Lagos,13
+3187,Esther Chukwu,Female,42,Operations,Senior,2017-06-25,460000,1,Contract,Lagos,14
+3188,Kemi Eze,Female,30,Marketing,Mid-level,2022-04-11,455000,2,Full-time,Lagos,6
+3189,Zainab Salami,Female,31,Engineering,Senior,2023-08-02,730000,5,Contract,Lagos,8
+3190,Ayo Adebayo,Male,24,Sales,Junior,2021-06-14,315000,3,Full-time,Port Harcourt,14
+3191,Aisha Danjuma,Female,41,Finance,Manager,2018-04-15,1300000,3,Full-time,Abuja,9
+3192,Ayo Olawale,Male,34,Human Resources,Senior,2016-11-22,625000,4,Full-time,Lagos,10
+3193,David Okonkwo,Male,30,Finance,Mid-level,2021-08-05,575000,4,Full-time,Lagos,8
+3194,Aisha Okonkwo,Female,29,Human Resources,Senior,2020-07-24,665000,4,Full-time,Lagos,16
+3195,Ibrahim Ibrahim,Male,28,Customer Support,Junior,2023-05-08,175000,3,Full-time,Lagos,1
+3196,Tunde Balogun,Male,23,Marketing,Junior,2022-07-30,360000,4,Full-time,Ibadan,4
+3197,Funmi Olawale,Female,27,Operations,Mid-level,2021-02-01,430000,2,Full-time,Abuja,7
+3198,Kelechi Adebayo,Male,21,Engineering,Mid-level,2023-07-08,745000,4,Full-time,Lagos,8
+3199,Musa Olawale,Male,25,Finance,Junior,2022-12-17,440000,4,Full-time,Lagos,13
+3200,Peace Balogun,Female,32,Finance,Junior,2017-09-17,350000,4,Full-time,Abuja,6
+3201,Funmi Abdullahi,Female,35,Sales,Mid-level,2019-02-01,390000,2,Full-time,Abuja,6
+3202,Aisha Balogun,Female,24,Finance,Junior,2017-03-07,420000,2,Full-time,Lagos,15
+3203,Yusuf Abdullahi,Male,28,Marketing,Mid-level,2022-10-28,510000,4,Full-time,Ibadan,9
+3204,Nneka Musa,Female,23,Finance,Junior,2019-06-28,430000,5,Full-time,Abuja,19
+3205,Ayo Chukwu,Male,26,Sales,Junior,2023-07-27,225000,2,Contract,Lagos,13
+3206,Aisha Ibrahim,Female,24,Operations,Junior,2022-05-23,240000,4,Full-time,Lagos,19
+3207,Ade Ibrahim,Male,22,Sales,Junior,2023-08-27,310000,3,Full-time,Lagos,11
+3208,Musa Okonkwo,Male,29,Operations,Junior,2024-01-11,205000,5,Contract,Port Harcourt,24
+3209,Segun Nwosu,Male,30,Operations,Mid-level,2019-06-30,310000,4,Part-time,Lagos,4
+3210,Kelechi Adeyemi,Male,40,Operations,Manager,2018-03-08,865000,4,Full-time,Lagos,10
+3211,Tunde Lawal,Male,34,Sales,Senior,2022-02-07,620000,2,Full-time,Lagos,16
+3212,Joshua Nnamdi,Male,25,Marketing,Mid-level,2021-12-31,535000,4,Full-time,Port Harcourt,14
+3213,Kemi Abdullahi,Female,33,Sales,Senior,2020-08-18,660000,3,Full-time,Lagos,3
+3214,Tolu Okonkwo,Female,25,Customer Support,Mid-level,2018-05-24,325000,3,Full-time,Lagos,8
+3215,Ibrahim Ibrahim,Male,26,Sales,Junior,2022-04-19,335000,4,Full-time,Ibadan,12
+3216,Uche Eze,Male,30,Sales,Mid-level,2023-02-18,375000,2,Contract,Lagos,12
+3217,Tolu Ibrahim,Female,33,Engineering,Manager,2022-08-12,1465000,5,Full-time,Ibadan,14
+3218,Chidi Adebayo,Male,29,Sales,Junior,2019-12-12,330000,3,Full-time,Lagos,13
+3219,Dayo Abdullahi,Male,24,Sales,Junior,2024-02-25,320000,4,Full-time,Lagos,9
+3220,Ade Danjuma,Male,36,Finance,Senior,2021-10-23,740000,3,Full-time,Abuja,5
+3221,Victor Adebayo,Male,36,Marketing,Mid-level,2018-10-03,495000,5,Full-time,,14
+3222,Ife Chukwu,Female,29,Engineering,Mid-level,2024-07-20,425000,3,Contract,Port Harcourt,6
+3223,Fatima Abdullahi,Female,33,Human Resources,Senior,2017-06-15,395000,5,Contract,Lagos,12
+3224,Ife Ogunleye,Female,33,Finance,Mid-level,2018-12-23,490000,5,Full-time,Abuja,14
+3225,Uche Olawale,Male,33,Customer Support,Mid-level,2023-03-30,250000,5,Contract,Port Harcourt,19
+3226,Yusuf Ibrahim,Male,36,Operations,Senior,2018-02-03,635000,4,Full-time,Port Harcourt,2
+3227,Yetunde Nwosu,Female,40,Engineering,Manager,2016-09-30,1040000,5,Part-time,Lagos,10
+3228,Wale Danjuma,Male,27,Engineering,Mid-level,2023-09-05,755000,3,Full-time,Port Harcourt,12
+3229,Peace Eze,Female,33,Engineering,Mid-level,2024-03-23,395000,4,Contract,Abuja,6
+3230,Victor Okafor,Male,38,Human Resources,Mid-level,2018-01-15,455000,3,Full-time,Abuja,10
+3231,Obi Olawale,Male,26,Operations,Mid-level,2024-04-29,430000,1,Full-time,Abuja,16
+3232,Obi Chukwu,Male,24,Human Resources,Mid-level,2024-04-06,485000,4,Full-time,Lagos,7
+3233,Gbenga Salami,Male,26,Customer Support,Junior,2024-09-16,205000,3,Full-time,Abuja,8
+3234,Kola Lawal,Male,36,Operations,Manager,2023-06-11,555000,4,Part-time,Abuja,14
+3235,Samuel Olawale,Male,25,Finance,Junior,2020-08-14,350000,4,Full-time,Lagos,8
+3236,Kelechi Ogunleye,Male,25,Customer Support,Junior,2021-09-15,220000,4,Full-time,Lagos,8
+3237,Peace Danjuma,Female,29,Engineering,Mid-level,2020-07-15,705000,3,Full-time,Abuja,7
+3238,Funmi Adebayo,Female,32,Sales,Senior,2024-11-21,695000,3,Full-time,Lagos,0
+3239,Esther Chukwu,Female,22,Customer Support,Junior,2019-07-18,135000,4,Part-time,Lagos,20
+3240,Ibrahim Salami,Male,31,Finance,Mid-level,2020-12-09,545000,4,Full-time,Lagos,8
+3241,Daniel Danjuma,Male,25,Engineering,Junior,2023-07-08,450000,2,Full-time,Abuja,16
+3242,Musa Olawale,Male,34,Engineering,Senior,2020-03-17,905000,3,Full-time,Lagos,17
+3243,Aisha Eze,Female,37,Engineering,Senior,2019-05-10,800000,3,Full-time,Port Harcourt,6
+3244,Tobi Bello,Male,40,Human Resources,Manager,2016-08-10,995000,2,Full-time,Abuja,11
+3245,Joshua Adebayo,Male,25,Marketing,Mid-level,2023-06-19,425000,4,Full-time,Ibadan,2
+3246,Lola Eze,Female,38,Engineering,Senior,2022-05-26,720000,5,Contract,Lagos,1
+3247,Victor Okoro,Male,21,Marketing,Junior,2021-09-09,240000,3,Part-time,Abuja,16
+3248,Emeka Okoro,Male,31,Finance,Senior,2023-12-28,740000,2,Full-time,Abuja,9
+3249,Ayo Salami,Male,32,Finance,Mid-level,2023-07-09,600000,2,Full-time,Abuja,1
+3250,Tolu Eze,Female,26,Marketing,Junior,2019-07-03,200000,4,Contract,Port Harcourt,14
+3251,Bisi Eze,Female,31,Sales,Senior,2022-11-16,710000,2,Full-time,Lagos,9
+3252,Yusuf Bello,Male,39,Engineering,Senior,2020-06-28,740000,4,Contract,Kano,7
+3253,Joshua Salami,Male,26,Sales,Junior,2020-05-25,260000,3,Full-time,Ibadan,7
+3254,Tolu Salami,Female,25,Operations,Junior,2018-04-28,175000,1,Contract,Abuja,9
+3255,Rita Balogun,Female,29,Customer Support,Mid-level,2020-12-14,230000,4,Part-time,Abuja,5
+3256,Dayo Akinola,Male,28,Marketing,Mid-level,2018-09-29,520000,3,Full-time,Abuja,7
+3257,Ibrahim Nwosu,Male,27,Customer Support,Mid-level,2024-07-26,335000,4,Full-time,Abuja,4
+3258,Mercy Nnamdi,Female,34,Sales,Senior,2021-06-19,705000,1,Full-time,Lagos,6
+3259,Tobi Okoro,Male,40,Marketing,Manager,2024-06-25,1065000,3,Full-time,Lagos,8
+3260,Funmi Ibrahim,Female,36,Finance,Manager,2023-05-24,1255000,5,Full-time,Lagos,7
+3261,Funmi Danjuma,Female,,Engineering,Junior,2020-01-01,330000,3,Part-time,Kano,7
+3262,Lola Ogunleye,Female,31,Marketing,Manager,2020-04-09,980000,3,Full-time,Kano,23
+3263,Abigail Musa,Female,27,Customer Support,Senior,2023-07-26,375000,1,Full-time,Lagos,11
+3264,Rita Danjuma,Female,26,Operations,Mid-level,2021-08-19,420000,3,Full-time,Lagos,17
+3265,Bisi Musa,Female,27,Finance,Junior,2019-07-09,400000,5,Full-time,Lagos,19
+3266,Peace Eze,Female,26,Marketing,Junior,2022-02-28,345000,3,Full-time,Port Harcourt,15
+3267,Obi Nnamdi,Male,33,Engineering,Senior,2024-07-31,855000,3,Full-time,Lagos,9
+3268,Nneka Olawale,Female,31,Sales,Junior,2021-11-01,345000,3,Full-time,Ibadan,15
+3269,Tolu Nwosu,Female,29,Marketing,Mid-level,2018-06-07,510000,4,Full-time,Port Harcourt,10
+3270,Esther Danjuma,Female,25,Engineering,Junior,2022-02-19,440000,4,Full-time,Ibadan,8
+3271,Mercy Balogun,Female,37,Engineering,Senior,2016-04-14,1045000,4,Full-time,Lagos,17
+3272,Uche Adebayo,Male,25,Marketing,Mid-level,2020-05-29,335000,5,Contract,Ibadan,16
+3273,Joshua Ibrahim,Male,27,Engineering,Junior,2022-03-04,490000,2,Full-time,Abuja,9
+3274,Fatima Abdullahi,Female,34,Finance,Senior,2017-01-21,770000,3,Full-time,Ibadan,11
+3275,Lola Ogunleye,Female,30,Engineering,Junior,2023-07-05,400000,5,Full-time,Lagos,9
+3276,Lola Akinola,Female,27,Operations,Senior,2022-11-01,585000,3,Full-time,Lagos,11
+3277,Joshua Salami,Male,32,Finance,Mid-level,2018-11-28,545000,4,Full-time,Kano,9
+3278,Zainab Okonkwo,Female,22,Marketing,Junior,2023-08-22,325000,3,Full-time,Lagos,12
+3279,David Akinola,Male,31,Marketing,Mid-level,2019-01-08,425000,3,Full-time,Lagos,3
+3280,Musa Adebayo,Male,29,Sales,Junior,2022-11-04,290000,3,Full-time,Kano,16
+3281,Femi Danjuma,Male,33,Operations,Senior,2022-05-31,685000,3,Full-time,Abuja,11
+3282,David Bello,Male,28,Engineering,Mid-level,2020-02-28,425000,3,Contract,Lagos,12
+3283,Gbenga Danjuma,Male,29,Operations,Mid-level,2022-04-01,460000,4,Full-time,Port Harcourt,16
+3284,Victor Ibrahim,Male,24,Customer Support,Mid-level,2023-06-30,285000,4,Full-time,Lagos,10
+3285,Emeka Abdullahi,Male,33,Marketing,Senior,2022-07-13,425000,3,Contract,Kano,14
+3286,Ade Adebayo,Male,33,Finance,Senior,2022-05-31,845000,4,Full-time,Abuja,6
+3287,Abigail Adeyemi,Female,30,Marketing,Mid-level,2017-08-01,500000,4,Full-time,Abuja,7
+3288,Femi Musa,Male,29,Operations,Mid-level,2022-05-27,470000,4,Full-time,Lagos,6
+3289,Tunde Akinola,Male,33,Finance,Mid-level,2021-05-09,355000,3,Contract,Lagos,9
+3290,Bisi Danjuma,Female,32,Engineering,Junior,2016-06-12,300000,4,Contract,Abuja,9
+3291,Fatima Adebayo,Female,34,Human Resources,Senior,2019-02-12,625000,2,Full-time,Lagos,10
+3292,Ngozi Musa,Female,41,Sales,Senior,2022-10-13,755000,3,Full-time,Lagos,6
+3293,Bisi Balogun,Female,37,Engineering,Senior,2019-07-10,665000,3,Contract,Abuja,4
+3294,Grace Olawale,Female,29,Customer Support,Junior,2022-11-07,220000,3,Full-time,Port Harcourt,9
+3295,Sade Ogunleye,Female,39,Customer Support,Senior,2018-08-18,330000,1,Contract,Abuja,18
+3296,David Okafor,Male,35,Sales,Mid-level,2018-07-14,450000,2,Full-time,Abuja,11
+3297,Bisi Lawal,Female,36,Marketing,Manager,2020-09-12,1110000,3,Full-time,Lagos,6
+3298,Blessing Nwosu,Female,28,Engineering,Junior,2018-12-02,405000,2,Full-time,Lagos,5
+3299,Funmi Okoro,Female,42,Engineering,Manager,2020-10-13,1445000,5,Full-time,Lagos,14
+3300,David Bello,Male,32,Human Resources,Mid-level,2020-08-07,310000,4,Contract,Abuja,13
+3301,Nneka Chukwu,Female,39,Sales,Manager,2016-11-24,865000,3,Full-time,Abuja,14
+3302,Tunde Abdullahi,Male,25,Finance,Junior,2022-04-05,365000,4,Full-time,Abuja,6
+3303,Grace Adebayo,Female,33,Sales,Senior,2023-06-21,710000,4,Full-time,Kano,11
+3304,Kemi Salami,Female,23,Engineering,Junior,2023-08-25,360000,5,Full-time,Ibadan,9
+3305,Dayo Salami,Male,30,Finance,Mid-level,2020-06-27,580000,3,Full-time,Lagos,15
+3306,Tolu Salami,Female,31,Finance,Mid-level,2018-07-08,,4,Full-time,Abuja,11
+3307,Segun Olawale,Male,35,Sales,Senior,2020-11-03,585000,3,Full-time,Abuja,16
+3308,Samuel Akinola,Male,30,Customer Support,Senior,2020-09-14,460000,5,Full-time,Lagos,7
+3309,Chidi Akinola,Male,27,Finance,Junior,2021-09-09,420000,5,Full-time,Abuja,5
+3310,Fatima Nnamdi,Female,32,Finance,Mid-level,2021-08-10,645000,4,Full-time,Kano,7
+3311,Uche Adeyemi,Male,40,Sales,Senior,2019-04-03,405000,3,Contract,Abuja,4
+3312,Funmi Akinola,Female,31,Sales,Senior,2024-06-02,730000,2,Full-time,Lagos,0
+3313,Mercy Okoro,Female,28,Finance,Junior,2017-10-30,360000,4,Full-time,Lagos,10
+3314,Ife Danjuma,Female,32,Customer Support,Mid-level,2020-10-19,285000,4,Full-time,Lagos,12
+3315,Yetunde Bello,Female,28,Operations,Junior,2018-07-23,320000,5,Full-time,Abuja,11
+3316,Sade Salami,Female,41,Operations,Senior,2021-01-20,370000,4,Part-time,Abuja,10
+3317,Emeka Ogunleye,Male,30,Sales,Mid-level,2019-01-05,525000,3,Full-time,Ibadan,11
+3318,Hauwa Lawal,Female,27,Marketing,Junior,2016-12-17,200000,5,Part-time,Abuja,9
+3319,Fatima Olawale,Female,23,Sales,Junior,2022-05-19,190000,1,Contract,Lagos,3
+3320,Gbenga Okoro,Male,35,Marketing,Senior,2023-08-02,425000,3,Contract,Lagos,11
+3321,Samuel Okonkwo,Male,40,Engineering,Mid-level,2017-09-05,675000,2,Full-time,Abuja,9
+3322,Bisi Balogun,Female,35,Customer Support,Senior,2021-12-07,475000,5,Full-time,Lagos,3
+3323,Rita Bello,Female,40,Marketing,Senior,2024-02-04,775000,2,Full-time,Lagos,11
+3324,Ngozi Abdullahi,Female,24,Marketing,Mid-level,2018-02-28,435000,2,Full-time,Kano,19
+3325,Ibrahim Okoro,Male,24,Operations,Junior,2023-10-03,275000,4,Full-time,Ibadan,5
+3326,Joshua Nwosu,Male,27,Human Resources,Junior,2015-09-14,330000,4,Full-time,Port Harcourt,16
+3327,Hauwa Bello,Female,33,Operations,Junior,2020-08-10,225000,4,Contract,Port Harcourt,10
+3328,Kelechi Abdullahi,Male,32,Engineering,Senior,2023-02-11,580000,3,Contract,Lagos,13
+3329,Esther Danjuma,Female,29,Engineering,Junior,2018-02-19,370000,4,Full-time,Ibadan,2
+3330,Abigail Adeyemi,Female,24,Human Resources,Junior,2021-06-19,310000,1,Full-time,Abuja,17
+3331,Sade Nnamdi,Female,29,Finance,Junior,2017-06-21,310000,3,Part-time,Abuja,4
+3332,Esther Lawal,Female,24,Finance,Junior,2020-03-22,445000,3,Full-time,Lagos,5
+3333,Kemi Olawale,Female,31,Finance,Mid-level,2024-07-13,675000,4,Full-time,Ibadan,12
+3334,Segun Nnamdi,Male,31,Finance,Mid-level,2021-12-12,410000,4,Contract,Port Harcourt,12
+3335,Sade Akinola,Female,33,Engineering,Senior,2022-11-28,960000,1,Full-time,Lagos,9
+3336,Daniel Eze,Male,21,Engineering,Junior,2022-11-27,370000,3,Full-time,Lagos,9
+3337,Kola Okoro,Male,32,Customer Support,Mid-level,2016-06-11,210000,4,Contract,Kano,16
+3338,Obi Bello,Male,33,Marketing,Senior,2017-02-15,515000,2,Contract,Lagos,4
+3339,Abigail Abdullahi,Female,35,Customer Support,Senior,2019-11-16,380000,4,Full-time,Lagos,8
+3340,Kemi Nwosu,Female,22,Customer Support,Junior,2021-03-19,235000,4,Full-time,Abuja,4
+3341,Ade Adebayo,Male,41,Human Resources,Manager,2020-09-25,1050000,,Full-time,Lagos,6
+3342,Ade Lawal,Male,28,Engineering,Junior,2018-07-23,365000,3,Full-time,Abuja,4
+3343,Chiamaka Okonkwo,Female,27,Sales,Mid-level,2024-02-07,310000,5,Contract,Port Harcourt,23
+3344,Kemi Chukwu,Female,41,Marketing,Manager,2019-09-03,990000,4,Full-time,Lagos,17
+3345,Amara Ogunleye,Female,35,Finance,Manager,2022-06-17,1240000,4,Full-time,Abuja,13
+3346,Abigail Bello,Female,21,Engineering,Junior,2022-07-12,445000,4,Full-time,Lagos,15
+3347,Obi Nnamdi,Male,33,Customer Support,Senior,2024-01-02,465000,5,Full-time,Abuja,16
+3348,Dayo Olawale,Male,35,Marketing,Mid-level,2018-11-04,495000,4,Full-time,Kano,12
+3349,Fatima Abdullahi,Female,33,Marketing,Senior,2022-06-05,480000,4,Part-time,Kano,14
+3350,Grace Okoro,Female,30,Sales,Senior,2020-11-26,540000,4,Contract,Abuja,11
+3351,Emeka Nnamdi,Male,24,Marketing,Junior,2023-01-08,355000,4,Full-time,Ibadan,17
+3352,Maryam Abdullahi,Female,24,Operations,Junior,2020-07-07,305000,3,Full-time,Lagos,6
+3353,Samuel Nnamdi,Male,40,Sales,Manager,2018-07-09,980000,2,Full-time,Lagos,15
+3354,Abigail Danjuma,Female,34,Customer Support,Mid-level,2017-01-22,340000,3,Full-time,Lagos,16
+3355,Ngozi Okoro,Female,32,Engineering,Mid-level,2020-07-27,755000,1,Full-time,Lagos,12
+3356,Yetunde Akinola,Female,31,Operations,Junior,2020-09-25,250000,2,Full-time,Port Harcourt,19
+3357,Jide Adebayo,Male,47,Operations,Senior,2018-05-31,540000,5,Full-time,Abuja,18
+3358,Ngozi Olawale,Female,21,Engineering,Junior,2022-10-09,385000,4,Full-time,Lagos,10
+3359,Kola Nwosu,Male,33,Human Resources,Mid-level,2016-04-06,375000,3,Full-time,Abuja,20
+3360,Nneka Nnamdi,Female,33,Engineering,Senior,2020-08-07,870000,4,Full-time,Port Harcourt,0
+3361,Funmi Chukwu,Female,21,Marketing,Junior,2021-02-14,295000,2,Full-time,Lagos,21
+3362,Ibrahim Salami,Male,25,Operations,Junior,2019-03-23,300000,4,Full-time,Lagos,21
+3363,Amara Okonkwo,Female,35,Sales,Senior,2024-06-20,770000,3,Full-time,Port Harcourt,17
+3364,Grace Danjuma,Female,34,Finance,Senior,2018-09-18,995000,2,Full-time,Abuja,15
+3365,Amara Salami,Female,29,Marketing,Junior,2022-05-27,300000,2,Full-time,Port Harcourt,4
+3366,Rita Olawale,Female,33,Engineering,Senior,2024-02-12,975000,5,Full-time,Port Harcourt,6
+3367,Funmi Adeyemi,Female,35,Sales,Manager,2024-01-22,910000,4,Full-time,Ibadan,16
+3368,Abigail Okoro,Female,21,Engineering,Junior,2021-08-28,310000,3,Part-time,Ibadan,9
+3369,Ayo Okafor,Male,26,Sales,Junior,2020-06-23,205000,2,Contract,Ibadan,9
+3370,Joshua Eze,Male,31,Human Resources,Senior,2022-10-09,530000,4,Contract,Abuja,16
+3371,Femi Ibrahim,Male,43,Engineering,Manager,2017-09-20,1485000,3,Full-time,Kano,13
+3372,Ife Okoro,Female,28,Finance,Junior,2019-12-18,380000,5,Full-time,Lagos,
+3373,Ayo Nwosu,Male,32,Customer Support,Mid-level,2018-10-19,345000,4,Full-time,Port Harcourt,14
+3374,Abigail Nnamdi,Female,30,Operations,Senior,2022-09-24,490000,2,Contract,Port Harcourt,8
+3375,Ngozi Adeyemi,Female,29,Sales,Junior,2020-04-26,335000,4,Full-time,Lagos,11
+3376,Yetunde Ogunleye,Female,25,Sales,Junior,2022-09-18,215000,4,Contract,Kano,8
+3377,Rita Abdullahi,Female,24,Operations,Junior,2022-06-30,315000,2,Full-time,Abuja,5
+3378,Obi Ibrahim,Male,28,Operations,Junior,2019-10-18,230000,4,Contract,Port Harcourt,15
+3379,Obi Balogun,Male,23,Engineering,Junior,2023-01-17,450000,3,Full-time,Lagos,11
+3380,Ibrahim Olawale,Male,22,Operations,Junior,2019-11-05,230000,5,Contract,Port Harcourt,19
+3381,Jide Balogun,Male,34,Operations,Senior,2020-08-15,685000,5,Full-time,Port Harcourt,17
+3382,Ayo Adeyemi,Male,29,Engineering,Junior,2022-08-10,375000,3,Full-time,Abuja,11
+3383,Kola Salami,Male,23,Customer Support,Junior,2017-03-26,135000,4,Contract,Ibadan,11
+3384,Segun Okoro,Male,31,Customer Support,Mid-level,2020-10-23,330000,3,Full-time,Lagos,8
+3385,Tunde Okonkwo,Male,29,Sales,Junior,2018-12-14,355000,3,Full-time,Abuja,12
+3386,Hauwa Danjuma,Female,36,Engineering,Senior,2019-02-01,1060000,4,Full-time,Ibadan,12
+3387,Victor Balogun,Male,35,Engineering,Senior,2019-11-19,710000,4,Contract,Lagos,18
+3388,Tunde Bello,Male,25,Engineering,Junior,2022-06-17,380000,4,Full-time,Port Harcourt,13
+3389,Funmi Akinola,Female,38,Finance,Mid-level,2019-06-03,645000,4,Full-time,Lagos,9
+3390,Ibrahim Bello,Male,25,Marketing,Junior,2022-04-13,305000,4,Full-time,Port Harcourt,20
+3391,Uche Lawal,Male,21,Engineering,,2020-01-07,420000,1,Full-time,Lagos,22
+3392,Obi Salami,Male,25,Human Resources,Junior,2016-09-17,240000,4,Contract,Abuja,15
+3393,Mercy Balogun,Female,31,Operations,Junior,2022-10-17,240000,5,Full-time,Ibadan,19
+3394,Uche Okoro,Male,30,Customer Support,Mid-level,2023-11-01,255000,5,Full-time,Ibadan,5
+3395,Mercy Eze,Female,35,Engineering,Senior,2017-12-07,1100000,4,Full-time,Lagos,11
+3396,Daniel Ibrahim,Male,30,Marketing,Senior,2023-06-26,815000,4,Full-time,Lagos,7
+3397,Blessing Ogunleye,Female,31,Marketing,Mid-level,2016-04-17,395000,5,Full-time,Ibadan,20
+3398,Nneka Chukwu,Female,21,Engineering,Junior,2023-10-16,385000,4,Full-time,Kano,12
+3399,Wale Ogunleye,Male,29,Operations,Senior,2023-06-06,580000,2,Full-time,Lagos,0
+3400,Nneka Abdullahi,Female,30,Engineering,Junior,2019-11-27,365000,3,Full-time,Kano,13
